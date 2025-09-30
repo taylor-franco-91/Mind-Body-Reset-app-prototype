@@ -29,6 +29,12 @@ Here’s a preview of the **Mind Body Reset Mobile App Prototype**:
 |-----------------|----------------|-----------|  
 | ![Workout Library](screenshots/workout-library.png)<br><sub>Exercise database with guided workouts.</sub> | ![Coach Messages](screenshots/coach-message.png)<br><sub>Direct messages from your coach for accountability.</sub> | ![Community](screenshots/community.png)<br><sub>Group forum for encouragement and sharing results.</sub> |  
 
+| Profile |  
+|---------|  
+| ![Profile](screenshots/personal-profile.png)<br><sub>Personal profile with progress tracking and achievements.</sub> |  
+
+</div>
+
 ## Tech  
 - Frontend built with **React concepts** (prototyped in Replit)  
 - Responsive UI with semantic HTML & CSS  
