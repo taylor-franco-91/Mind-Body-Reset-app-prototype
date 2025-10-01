@@ -11,7 +11,7 @@ A fitness and wellness app prototype built to showcase **frontend engineering sk
 - Designed with a focus on **usability, accessibility, and responsive layouts**  
 
 ## Why this project matters  
-This prototype demonstrates more than static pages — it shows my ability to design and implement **practical, real-world features** that companies use every day. From personalized dashboards to messaging systems, I approached it as if I were solving actual product problems.  
+This prototype demonstrates more than static pages, it shows my ability to design and implement **practical, real-world features** that companies use every day. From personalized dashboards to messaging systems, I approached it as if I were solving actual product problems.  
 
 While this project was tested manually, I also have experience applying **QA automation (Selenium + Python)** on past work, so I understand how to bring both functionality and reliability into production.  
 
