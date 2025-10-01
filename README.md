@@ -42,7 +42,7 @@ Here’s a preview of the **Mind Body Reset Mobile App Prototype**:
 
 ## Live Demo  
 ## 🎥 Demo Video
-[![Watch the demo]]((https://youtu.be/87xc3kQQ7FU))  
+[![Watch the demo]] https://youtu.be/87xc3kQQ7FU  
 *Click to watch on YouTube (opens in a new tab).*
 
 
