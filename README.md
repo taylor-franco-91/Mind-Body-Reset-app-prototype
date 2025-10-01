@@ -41,7 +41,11 @@ Here’s a preview of the **Mind Body Reset Mobile App Prototype**:
 - Deployed demo video + GitHub repo for showcase  
 
 ## Live Demo  
-🎥 **[Watch the demo video](#)** <!-- Replace # with your GitHub video link -->  
+## 🎥 Demo Video
+[![Watch the demo]]((https://youtu.be/87xc3kQQ7FU))  
+*Click to watch on YouTube (opens in a new tab).*
+
+
 
 ## Contact  
 - **LinkedIn:** [https://www.linkedin.com/in/taylor-franco-982518140/](https://www.linkedin.com/in/taylor-franco-982518140/)  
