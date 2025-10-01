@@ -2,8 +2,7 @@
  
 ![Frontend](https://img.shields.io/badge/Frontend-Project-blue)  ![Prototype](https://img.shields.io/badge/App-Prototype-purple) ![QA](https://img.shields.io/badge/Manual_QA-Validated-success)
 
-
-A fitness and wellness app prototype built to showcase **frontend engineering skills** with real-world features like dashboards, messaging, check-ins, and community engagement.  
+A mobile-first fitness prototype showcasing real-world frontend skills: I owned UI/UX design, prototyping, and responsive design, building real features (dashboard, 12-week program, daily check-ins, coach messaging, community, profile). I focused on accessibility (A11y) and performed manual QA testing across devices to ensure consistent behavior. The repo includes thoughtful project documentation and screenshots to showcase flows. Tech & skills used: React, JavaScript (ES6+), HTML5, CSS3, UI/UX Design, Prototyping, Responsive Design, Accessibility (A11y), Manual QA Testing.
 
 ## 🔑 Key Features  
 - **Role-based dashboard** with personalized user profile  
