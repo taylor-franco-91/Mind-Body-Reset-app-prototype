@@ -1,5 +1,10 @@
 # Mind Body Reset — App Prototype  
 
+![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=black)  
+![Frontend](https://img.shields.io/badge/Frontend-Project-blue)  
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)  
+[![Demo Video](https://img.shields.io/badge/Demo-YouTube-red?logo=youtube)](https://youtu.be/87xc3kQQ7FU)  
+
 A fitness and wellness app prototype built to showcase **frontend engineering skills** with real-world features like dashboards, messaging, check-ins, and community engagement.  
 
 ## 🔑 Key Features  
