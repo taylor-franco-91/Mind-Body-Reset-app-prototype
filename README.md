@@ -2,7 +2,7 @@
 
 A fitness and wellness app prototype built to showcase **frontend engineering skills** with real-world features like dashboards, messaging, check-ins, and community engagement.  
 
-## Highlights  
+## 🔑 Key Features  
 - **Role-based dashboard** with personalized user profile  
 - **12-week transformation program** tracker  
 - **Daily check-in system** for consistency  
@@ -11,7 +11,7 @@ A fitness and wellness app prototype built to showcase **frontend engineering sk
 - Designed with a focus on **usability, accessibility, and responsive layouts**  
 
 ## Why this project matters  
-This prototype demonstrates more than static pages, it shows my ability to design and implement **practical, real-world features** that companies use every day. From personalized dashboards to messaging systems, I approached it as if I were solving actual product problems.  
+This prototype demonstrates more than static pages—it shows my ability to design and implement **practical, real-world features** that companies use every day. From personalized dashboards to messaging systems, I approached it as if I were solving actual product problems.  
 
 While this project was tested manually, I also have experience applying **QA automation (Selenium + Python)** on past work, so I understand how to bring both functionality and reliability into production.  
 
@@ -33,22 +33,23 @@ Here’s a preview of the **Mind Body Reset Mobile App Prototype**:
 |---------|  
 | ![Profile](screenshots/personal-profile.png)<br><sub>Personal profile with progress tracking and achievements.</sub> |  
 
-</div>
+</div>  
 
-## Tech  
+## Tech Stack  
 - Frontend built with **React concepts** (prototyped in Replit)  
 - Responsive UI with semantic HTML & CSS  
 - Deployed demo video + GitHub repo for showcase  
 
-## Live Demo  
-## 🎥 Demo Video
-[![Watch the demo]] https://youtu.be/87xc3kQQ7FU  
-*Click to watch on YouTube (opens in a new tab).*
+## 🎥 Demo Video  
+[![Watch the demo](https://img.shields.io/badge/YouTube-Watch-red?logo=youtube)](https://youtu.be/87xc3kQQ7FU)  
+*Click to watch on YouTube (opens in a new tab).*  
 
+---
 
-
-## Contact  
-- **LinkedIn:** [https://www.linkedin.com/in/taylor-franco-982518140/](https://www.linkedin.com/in/taylor-franco-982518140/)  
+## Contact
+- **LinkedIn:** [Taylor Franco](https://www.linkedin.com/in/taylor-franco-982518140/)  
 - **Email:** taylor.franco91@gmail.com  
-- **Portfolio:** [https://taylor-franco-portfolio.netlify.app/](https://taylor-franco-portfolio.netlify.app/)  
+- **Portfolio:** [taylor-franco-portfolio.netlify.app](https://taylor-franco-portfolio.netlify.app/)  
+
+---
 
